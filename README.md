@@ -12,9 +12,9 @@ Ce projet est une application web E-Commerce basée sur ASP.NET MVC. L'objectif 
    - Les utilisateurs peuvent visualiser la liste complète des produits disponibles.
 
 3. **Ajouter un Produit au Panier**
-   - Les utilisateurs authentifiés peuvent ajouter des produits à leur panier.
+   - Les utilisateurs  peuvent ajouter des produits à leur panier.
    - Les produits ajoutés au panier sont stockés en utilisant des cookies.
-   - La sérialisation et la désérialisation des données du panier sont gérées avec des sessions.
+   - La sérialisation et la désérialisation des données du panier sont gérées avec des sessions, afin d'assurer la persistance.
 
 4. **Supprimer un Produit du Panier**
    - Les utilisateurs peuvent supprimer des produits de leur panier.
