@@ -17,19 +17,6 @@ Ce projet est une application web E-Commerce basée sur ASP.NET MVC. L'objectif 
    - La sérialisation et la désérialisation des données du panier sont gérées avec des sessions, afin d'assurer la persistance.
 
 4. **Supprimer un Produit du Panier**
-   - Les utilisateurs peuvent supprimer des produits de leur panier.
-
-
-## Les interfaces
-![image](https://github.com/MeriemELATTAR/E--Commerce-ASP.NET-MVC/assets/102729386/861a16bf-d4c0-4c15-b3ad-cabf62282545)
-![image](https://github.com/MeriemELATTAR/E--Commerce-ASP.NET-MVC/assets/102729386/21f7b80f-80ec-4e18-9e05-f738eb2b35ed)
-![image](https://github.com/MeriemELATTAR/E--Commerce-ASP.NET-MVC/assets/102729386/1ddc28c5-50a9-4ac3-a2ee-7aa4029419e4)
-![image](https://github.com/MeriemELATTAR/E--Commerce-ASP.NET-MVC/assets/102729386/54281fb4-b8f9-45ff-aa2c-02cb2351fc26)
-![image](https://github.com/MeriemELATTAR/E--Commerce-ASP.NET-MVC/assets/102729386/10522796-7514-4d1d-b4fd-e5a010e4d81c)
-
-
-
-
-
-
-
+   - Les utilisateurs peuvent supprimer des produits de leur panier
+  
+## Ce projet intègre un système de logging pour faciliter la détection et la résolution des problèmes.
